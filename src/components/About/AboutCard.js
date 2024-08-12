@@ -8,17 +8,16 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Virendra Yadav </span>
-            from <span className="purple"> Mumbai, India.</span>
+            Hello Everyone! I'm <span className="purple">Virendra Yadav</span>, hailing from the vibrant city of <span className="purple">Mumbai, India</span>.
             <br />
-            I am currently employed as a software Automation Developers at EPAM.
+            I’m currently working as a Software Development Engineer at EPAM.
             <br />
-            I have completed Part Time MCA in Computer Science and Computing at
-            Shubharti University Meerut.
+            I hold a Part-Time MCA in Computer Science and Computing from Shubharti University, Meerut.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            When I’m not coding, I enjoy indulging in a variety of other passions!
           </p>
+
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Cricket
