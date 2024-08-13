@@ -34,7 +34,7 @@ function Projects() {
               imgPath={FoodLink}
               isBlog={false}
               title="Food-Link"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with HTML and applied some quality CSS."
+              description="Food-Link is my first NextJS project,I was made this with help of Tailwind CSS and MongoesDB, Frontend and Backend!"
               ghLink="https://github.com/VirendrKumarYadav/foodies"
               demoLink="https://foodies-khaki-one.vercel.app/login/"
             />
@@ -49,7 +49,7 @@ function Projects() {
               imgPath={Ecom}
               isBlog={false}
               title="Ecom"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with HTML and applied some quality CSS."
+              description="ECOM is a big React Framework architecture with the help of React+Mongoes DB and also added the Express NodeJS Server. In this I added Payment Integeration with Rozerpay."
               ghLink="https://github.com/VirendrKumarYadav/ecom_ui"
               demoLink="https://ecom-ui-zeta.vercel.app/"
             />
@@ -91,7 +91,7 @@ function Projects() {
               imgPath={pathlab}
               isBlog={false}
               title="Dr. Lal PathLab "
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with HTML and applied some quality CSS."
+              description="Personal Chat Room or Workspace to share resources and hangout with friends build with HTML and applied some quality CSS.It's a team based project, and we own the prizes for thos for first rank."
               ghLink="https://github.com/jaitensahu/Project-Dr.PathLab"
               demoLink="https://jaitensahu.github.io/Project-Dr.PathLab/"
             />
